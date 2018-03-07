@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Stephen",
+      "hasUsedPAF": false,
+      "hasUsedAA": false,
+      "score": 0
+    },
+    {
+      "name": "Josh",
+      "hasUsedPAF": false,
+      "hasUsedAA": false,
+      "score": 0
+    },
+    {
+      "name": "Maria",
+      "hasUsedPAF": false,
+      "hasUsedAA": false,
+      "score": 0
+    }
+  ]
+}
