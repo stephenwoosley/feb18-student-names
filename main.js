@@ -171,6 +171,7 @@ const students = [
   
   window.onload = () => {
       roll.innerHTML += dice;
+      points.innerHTML += "Points";
   }
 
   button.onclick = function() {
