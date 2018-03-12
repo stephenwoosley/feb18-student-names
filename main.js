@@ -10,18 +10,6 @@ const students = [
       score: 0
     },
     {
-      name: "Josh P",
-      hasUsedPAF: false,
-      hasUsedAA: false,
-      score: 0
-    },
-    {
-      name: "Maria",
-      hasUsedPAF: false,
-      hasUsedAA: false,
-      score: 0
-    },
-    {
       name: "Adnan",
       hasUsedPAF: false,
       hasUsedAA: false,
